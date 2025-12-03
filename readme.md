@@ -14,7 +14,7 @@ To establish a scalable and reliable data platform on **Microsoft Azure** for mi
 
 The platform follows a modern **Medallion Architecture** pattern, leveraging **Azure Data Lake Gen2 (Raw & Transformed layers)** as the central data store.
 
-![Project Architecture Diagram](project%20architecture.PNG)
+![Project Architecture Diagram](https://github.com/coder-akram-khan/azure-sales-data-pipeline/blob/main/project%20architecture.png)
 
 ---
 
