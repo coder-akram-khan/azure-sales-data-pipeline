@@ -1,0 +1,17 @@
+{
+	"name": "FileLocation",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\data",
+			"userId": "akram",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIzMGFlZDBlOC1lOGFlLTQ2MmQtYTNlZS02ZjE2ZmViOTlmNGMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "onPremtoAzureintegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
