@@ -86,6 +86,8 @@ Created a dynamic dashboard using the cleansed data from ADLS/Synapse.
 ![Sales](https://img.shields.io/badge/Total_Sales-$4.2M-00C853)
 ![WinRate](https://img.shields.io/badge/Win_Rate-63%25-2962FF)
 
+![Project Architecture Diagram](https://github.com/coder-akram-khan/azure-sales-data-pipeline/blob/main/BI_Dahboard_img.PNG)
+
 The final BI dashboard reveals critical sales performance indicators:
 
 * **Total Close Value:** `$4.2M`
